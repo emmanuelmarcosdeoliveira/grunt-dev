@@ -90,7 +90,7 @@ Para ter Acesso ao Projeto; clique no link Abaixo:  <br>
 <div align="left">
 
 Para poder ter acesso a esse projeto e ver ele ronando no seu Computador você precisa ter em seu Computador os seguintes programas instalados:<br>
-- [x]  [Vscode]() 
+- [x]  [Vscode](https://code.visualstudio.com/)<br> 
 - [x]  [Git](https://git-scm.com/downloads)<br>
 - [x]  [NodeJs](https://nodejs.org/pt-br/download)<br> 
 <br>
@@ -103,7 +103,7 @@ npm install
 ~~~~
 > O NodeJs irá verificar as dependências necessárias pora que esse projeto seja executado em seu Computador. E irá instalar essas dependências.
 
-Após ele relizar esse processo digite o seguinte comando no terminal 
+Após ele relizar o processo de instalação, digite o seguinte comando no terminal 
 
 ~~~~bash
 npm run grunt 
