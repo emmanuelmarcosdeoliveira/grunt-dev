@@ -13,7 +13,7 @@
 
 <div align="center">
 <h1 text-align="center"> 🌟Sorteador de Numeros🌟</h1> 
-<img src="./img/bikcraft-readme/home.png" width= 990px> 
+<img src="./src/readme/main.png" width= 600px> 
 </div>
 
 <div align='center'>
@@ -21,7 +21,9 @@
 <div>
 
 <p align='left'>
-   Esse projeto nada mais é que um sorteador de numeros. Nele temos uma função em <strong>JavaScript</strong>que irá realizar uma pesquisa dentro dos parametros incluidos e ira mostrar o Resultado. Onde colcocamos um valor máximo que queremos que o Site realize o Sorteio e ao clicar na tecla <strong>Sorteador Numero<strong> ira aparece o numero que o foi Sorteado pelo Site.      
+   Esse projeto nada mais é que um sorteador de numeros. Nele temos uma função em <strong>JavaScript</strong>que irá realizar uma pesquisa (dentro dos parametros incluidos dentro de uma função em JavaScript) e  retornar o Resultado. Para que isso aconteça temos que:<br>
+    1. Temos que digitar o valor maxímo que queremos que o Site realize o Sorteio.<br> 
+    2. Depois  ao clicar na tecla <strong>Sorteador Numero<strong> após isso ira aparece o numero que o foi Sorteado pelo Site.      
    
 </p>
 
@@ -32,21 +34,21 @@
   <h2>⚙️ Funcionalidades</h2>
 <div>
 
-<p align ="left"> Realizar um Sorteio de um número de acordo com o valor maxímo que temos que inserir dentro antes se realizar o Sorteio.<br><br>
+<p align ="left"> Realizar um Sorteio de um número de acordo com o valor maxímo que temos que inserir antes de clicar na tecla de Sortear Número.<br><br>
 
  <div align="center">
  <h2>📸 Imagens do Projeto verão web.</h2>
 
-> :bulb: **Dica:** Algumas imagens da versão Desktop.
+> :bulb: **Dica:** Imagen da versão Desktop.
 
-<img src="src/readme/book.png" width= "450px" > 
+<img src="src/readme/main.png" width= "450px" > 
 
 </div>
 
 <div>
- <h2>📱 Imagens do Projeto verão Mobile.</h2>
+ <h2>📱 Imagem do Projeto verão Mobile.</h2>
 
- > :bulb: **Dica:** Algumas imagens da versão Mobile.
+ > :bulb: **Dica:** Imagem da versão Mobile.
 
 <img src="src/readme/mob.png" width= "160x" height="320px"> 
 
@@ -67,7 +69,7 @@
 ✅HTML<br>
 ✅CSS<br>
 ✅JAVASCRIPT<br>
-✅ NPM<br>
+✅NPM<br>
 ✅LESS<br>
 ✅GRUNT<br>
 
@@ -83,22 +85,23 @@ Para ter Acesso ao Projeto; clique no link Abaixo:  <br>
 
 </div>
 
-<h3>⬇️ Clonando o Projeto</h3>
+<h3>⬇️ Fazendo o Clone do Projeto</h3>
 
 <div align="left">
 
-Para poder ter acesso a esse projeto e ver ele ronando no seu Computador você precisa ter em sua Computador os seguintes progrmas instalados:<br>
+Para poder ter acesso a esse projeto e ver ele ronando no seu Computador você precisa ter em seu Computador os seguintes programas instalados:<br>
+- [x]  [Vscode]() 
 - [x]  [Git](https://git-scm.com/downloads)<br>
 - [x]  [NodeJs](https://nodejs.org/pt-br/download)<br> 
 <br>
 
-Caso já tenha os pré requistos listados acima crie diretório (pasta) 📁 no seu computador com o nome do Projeto <strong> Sorteador de Numeros</strong> clique  com o botão direito do mouse em cima dessa pasta e  selecione abrir com o code. 
-Dentro do Vs code abra o termial e digite o seguinte comando 
+Caso já tenha os pré requistos listados acima crie um novo diretório📁(pasta) onde deseje que o projeto seja clonado no seu computador com o nome do Projeto <strong> Sorteador de Numeros</strong> clique  com o botão direito do mouse em cima dessa pasta e selecione abrir com o Vscode. 
+Dentro do Vscode abra o termial e digite o seguinte comando: 
 
 ~~~~bash
 npm install 
 ~~~~
-> O NodeJs irá verificar as dependências necessárias pora que esse projeto seja executado dentro da sua maquina e irá instlar as mesmas.
+> O NodeJs irá verificar as dependências necessárias pora que esse projeto seja executado em seu Computador. E irá instalar essas dependências.
 
 Após ele relizar esse processo digite o seguinte comando no terminal 
 
